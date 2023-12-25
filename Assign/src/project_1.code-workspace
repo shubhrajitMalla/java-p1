@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../web_dev/project_1"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
